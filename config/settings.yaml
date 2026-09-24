@@ -1,0 +1,4 @@
+# 最小可解析配置（A1，决策方案 A：只放一个字段验证 YAML 可解析）
+# A3 任务将定义 Settings 结构并补齐全部字段：embedding/vector_store/retrieval/rerank/...
+llm:
+  provider: "azure_openai"

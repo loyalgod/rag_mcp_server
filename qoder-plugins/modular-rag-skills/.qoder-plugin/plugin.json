@@ -1,0 +1,27 @@
+{
+    "name": "modular-rag-skills",
+    "displayName": "Modular RAG 项目工作流技能包",
+    "version": "0.1.0",
+    "description": "Skill-driven development toolkit for the MODULAR-RAG-MCP-SERVER project: spec-driven auto coding, autonomous QA, setup wizard, packaging, resume writing, mock interviews, project learning and review.",
+    "descriptionZh": "MODULAR-RAG-MCP-SERVER 项目的 Skill 驱动开发工具包：Spec 驱动自动编码、全自动 QA、环境配置向导、清理打包、简历生成、模拟面试、项目学习与复习。",
+    "author": {
+        "name": "MODULAR-RAG-MCP-SERVER"
+    },
+    "homepage": "https://github.com/",
+    "logo": "./assets/avatar.svg",
+    "keywords": [
+        "qoder-plugin",
+        "skill",
+        "rag",
+        "mcp",
+        "spec-driven",
+        "interview-prep"
+    ],
+    "category": "developer-tools",
+    "tags": [
+        "skill",
+        "rag",
+        "mcp"
+    ],
+    "skills": "./skills/"
+}
